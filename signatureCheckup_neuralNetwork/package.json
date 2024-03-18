@@ -1,0 +1,14 @@
+{
+  "name": "signaturecheckup_neuralnetwork",
+  "version": "1.0.0",
+  "description": "Neural network for signature checkup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "João Pedro Machado Moura",
+  "license": "ISC"
+}
